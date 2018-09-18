@@ -58,11 +58,11 @@
 			children = (
 				0CC7ABED214F764700FC2FAD /* Fruit.xml */,
 				0CC7ABDB214F75C900FC2FAD /* AppDelegate.swift */,
-				0CC7ABDD214F75C900FC2FAD /* ViewController.swift */,
 				0CC7ABDF214F75C900FC2FAD /* Main.storyboard */,
 				0CC7ABE2214F75D100FC2FAD /* Assets.xcassets */,
 				0CC7ABE4214F75D100FC2FAD /* LaunchScreen.storyboard */,
 				0CC7ABE7214F75D100FC2FAD /* Info.plist */,
+				0CC7ABDD214F75C900FC2FAD /* ViewController.swift */,
 			);
 			path = "xml parsing";
 			sourceTree = "<group>";
