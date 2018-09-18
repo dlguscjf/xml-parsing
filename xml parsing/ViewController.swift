@@ -89,7 +89,7 @@ class ViewController: UIViewController ,XMLParserDelegate, UITableViewDelegate, 
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        //임시 저장소 셍성
+        
         let cell = mytableview.dequeueReusableCell(withIdentifier: "RE", for: indexPath)
         let myindex = elements[indexPath.row]
         cell.textLabel?.text = myindex["name"]
